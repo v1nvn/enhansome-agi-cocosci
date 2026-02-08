@@ -204,7 +204,7 @@
             "last_commit": "2025-11-21T21:48:14Z",
             "owner": "facebookresearch",
             "repo": "ImageBind",
-            "stars": 8964
+            "stars": 8965
           }
         },
         {
@@ -1283,10 +1283,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:22:03.515Z",
+    "last_updated": "2026-02-08T04:35:47.256Z",
     "original_repository": "YuzheSHI/awesome-agi-cocosci",
     "source_repository": "v1nvn/enhansome-agi-cocosci",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Artificial General Intelligence and Computational Cognitive Sciences with stars"
   }
 }
