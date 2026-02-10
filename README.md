@@ -840,7 +840,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](or
 
 #### DSL Program Synthesis
 
-* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931)]. \[[Code](https://github.com/tonybeltramelli/pix2code) ⭐ 12,055 | 🐛 9 | 🌐 Python | 📅 2024-05-29]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
+* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931)]. \[[Code](https://github.com/tonybeltramelli/pix2code) ⭐ 12,056 | 🐛 9 | 🌐 Python | 📅 2024-05-29]. \[[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
 
 * [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. \[[Project](https://github.com/ac-rad/xdl-generation) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2024-12-06]. \[[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
@@ -1195,7 +1195,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](or
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,598 | 🐛 163 | 🌐 Python | 📅 2025-04-07 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,599 | 🐛 163 | 🌐 Python | 📅 2025-04-07 - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088\&hl=en\&as_sdt=0,5)]. \[[Code & Data](https://github.com/MadryLab/backgrounds_challenge) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2020-10-02]. \[[Project](https://gradientscience.org/background/)]. A perspective on image background provides strong clue for foreground classification.
 
@@ -2253,7 +2253,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](or
 
 * [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
 
-* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/JosephKJ/OWOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2022-12-19].
+* [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project](https://github.com/JosephKJ/OWOD) ⭐ 1,071 | 🐛 30 | 🌐 Python | 📅 2022-12-19].
 
 * [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
