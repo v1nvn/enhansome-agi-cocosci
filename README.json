@@ -204,7 +204,7 @@
             "last_commit": "2025-11-21T21:48:14Z",
             "owner": "facebookresearch",
             "repo": "ImageBind",
-            "stars": 9026
+            "stars": 9025
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-05-29T04:48:27Z",
             "owner": "tonybeltramelli",
             "repo": "pix2code",
-            "stars": 12035
+            "stars": 12034
           }
         },
         {
@@ -977,7 +977,7 @@
             "last_commit": "2026-04-25T15:04:14Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12801
+            "stars": 12802
           }
         },
         {
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:53:08.460Z",
+    "last_updated": "2026-05-14T05:52:09.235Z",
     "original_repository": "YuzheSHI/awesome-agi-cocosci",
     "source_repository": "v1nvn/enhansome-agi-cocosci",
     "source_repository_description": null,
